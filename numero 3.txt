@@ -1,0 +1,7 @@
+Regras de funcionamento:
+Apenas um modo ativo por vez - se mais de um botão for pressionado, o sistema deve aplicar uma prioridade ou ignorar combinações.
+Exemplo de prioridade: Crítico > Atenção > Normal.
+O LED RGB deve assumir somente uma cor correspondente ao modo ativo.
+O valor do potenciômetro (0–1023) deve ser convertido para intensidade PWM (0–255).
+Botão de desligamento - LED apagado e sistema em estado inicial.
+Alterações de modo podem ser feitas a qualquer momento.
