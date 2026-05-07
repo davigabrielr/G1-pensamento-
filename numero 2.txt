@@ -1,0 +1,7 @@
+Componentes do sistema:
+Botões físicos (push buttons) - Seleção do modo de operação
+Potenciômetro - Controle de intensidade luminosa
+LED RGB - Indicação visual do estado da máquina
+Microcontrolador (ex.: Arduino, ESP32, PIC) → Processa entradas e controla saídas
+Resistores - Proteção dos LEDs e ajuste de corrente
+Fonte de alimentação - Energia para todo o sistema
