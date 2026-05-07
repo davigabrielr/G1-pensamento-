@@ -1,0 +1,23 @@
+Uso de estruturas if:
+Ler botão normal
+Ler botão atenção
+Ler botão crítico
+Ler botão desligar
+Ler potenciômetro
+
+Se botão desligar = 1
+LED apagará
+
+Senão se botão crítico = 1
+LED vermelho ligará
+
+Senão se botão atenção = 1
+LED amarelo ligará
+
+Senão se botão normal = 1
+LED verde ligará
+
+Senão
+LED permanece apagado
+
+Valor do potenciômetro ajusta a intensidade do LED
