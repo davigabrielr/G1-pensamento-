@@ -1,0 +1,10 @@
+1)
+Entradas do sistema:
+Botão 1 - Seleciona modo normal (LED verde)
+Botão 2 - Selecione modo de atenção (LED amarelo)
+Botão 3 - Selecione modo crítico (LED vermelho)
+Botão de desligamento → Apaga o LED e retorna ao estado inicial
+Potenciômetro (0–1023) → Ajusta a intensidade luminosa do LED
+Saídas do sistema:
+LED RGB -  Exibe apenas uma cor por vez (verde, amarelo ou vermelho)
+Intensidade do LED - Variável conforme valor do potenciômetro
